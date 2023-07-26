@@ -1,0 +1,12 @@
+{
+    "blogs":[
+  {"title":"A","preview":"HI", "body":"Hand","author":"Avish","id":"1"},
+  {"title":"B","preview":"KEY", "body":"Eyes","author":"Nehal","id":"2"},
+  {"title":"C","preview":"LOCK", "body":"Ears","author":"Vishal","id":"3"},
+  {"title":"D","preview":"DOOR", "body":"Toes","author":"Sahil","id":"4"},
+  {"title":"E","preview":"KEY", "body":"Eyes","author":"Nehal","id":"5"},
+  {"title":"F","preview":"LOCK", "body":"Ears","author":"Vishal","id":"6"},
+  {"title":"G","preview":"DOOR", "body":"Toes","author":"Sahil","id":"7"},
+  {"title":"H","preview":"KEY", "body":"Eyes","author":"Nehal","id":"8"}
+    ]
+}
